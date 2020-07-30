@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="MyActionBarTheme">
+        <item name="android:textColorPrimary">#ff1f19</item>
+    </style>
+    <style name="Date1">
+        <item name="colorAccent">#ff1f19</item>
+    </style>
+    <style name="Date2">
+        <item name="colorAccent">#ff1f19</item>
+    </style>
+
+</resources>
